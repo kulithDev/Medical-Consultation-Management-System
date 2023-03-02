@@ -1,0 +1,65 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅŠ¤Ùøÿÿÿÿ
+C
+java:S5665"(Remove this unnecessary escape sequence.(Ñš²äúÿÿÿÿ
+<	java:S131$""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(à¯ˆ¢
+V	java:S125<"<This block of commented-out lines of code should be removed.(“¯ƒàúÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(æŠßÉşÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(®ëÎ§úÿÿÿÿ
+g
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(›±ï
+W
+java:S1854m"<Remove this useless assignment to local variable "phoneNum".(‘Ñ¥Šüÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÓÛ³´øÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(Â ê
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¦åàùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(†üİÖûÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(¥É­ßüÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(é™Ø°ùÿÿÿÿ
+H
+java:S1481m"-Remove this unused "phoneNum" local variable.(‘Ñ¥Šüÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(Éªíğ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(Éªíğ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(İÕí…ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾½šÜ
+N	java:S106„"9Replace this use of System.out or System.err by a logger.(¦âG
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(òó¢¬
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(²ÊÔ£ûÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¡µ¸é
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(©¢µıÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(›…ªÃøÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ªÈµÏ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(üÂ˜è
+N	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(óòšw
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(€Ãıÿÿÿÿ8é¼Â—Ù0
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(¥ åÊ8ê¼Â—Ù0
+V	java:S106¢"9Replace this use of System.out or System.err by a logger.(Á¡²Á8ê¼Â—Ù0
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(ÓÂÕú8ê¼Â—Ù0
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ŞÛ8ê¼Â—Ù0
+V	java:S106¯"9Replace this use of System.out or System.err by a logger.(à¯ˆ¢8ë¼Â—Ù0
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(ËûÈ±8ë¼Â—Ù0
+U	java:S106¹"9Replace this use of System.out or System.err by a logger.(ùö¯;8ì¼Â—Ù0
+V	java:S106¼"9Replace this use of System.out or System.err by a logger.(‘àƒØ8ì¼Â—Ù0
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(üÂ˜è8ì¼Â—Ù0
+U	java:S106¾"9Replace this use of System.out or System.err by a logger.(óòšw8ì¼Â—Ù0
+[	java:S106¿"9Replace this use of System.out or System.err by a logger.(€Ãıÿÿÿÿ8ì¼Â—Ù0
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(¥ åÊ8í¼Â—Ù0
+V	java:S106Á"9Replace this use of System.out or System.err by a logger.(›œ½8í¼Â—Ù0
+V	java:S106Ö"9Replace this use of System.out or System.err by a logger.(áî¸º8ï¼Â—Ù0
+V	java:S106Ú"9Replace this use of System.out or System.err by a logger.(¿„×å8ğ¼Â—Ù0
+[	java:S106ò"9Replace this use of System.out or System.err by a logger.(€ÑÊúÿÿÿÿ8ñ¼Â—Ù0
+V	java:S106ô"9Replace this use of System.out or System.err by a logger.(ÖÊ­ş8ñ¼Â—Ù0
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‘Ó¨üÿÿÿÿ8ò¼Â—Ù0
+Y
+java:S1155+">Use isEmpty() to check whether the collection is empty or not.(ãŒÜşÿÿÿÿ
+a
+java:S1155µ">Use isEmpty() to check whether the collection is empty or not.(ãŒÜşÿÿÿÿ8ó¼Â—Ù0
+g
+java:S1104"QMake input a static final constant or non-public and provide accessors if needed.(©¹›Ş
+A
+java:S1444"+Make this "public static input" field final(©¹›Ş
+0
+java:S1220""Move this file to a named package.
+e
+java:S2095Ê"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ê¬Ä98ü½Â—Ù0

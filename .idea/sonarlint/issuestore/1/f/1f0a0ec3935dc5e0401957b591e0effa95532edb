@@ -1,0 +1,9 @@
+
+D
+java:S1948")Make "docList" transient or serializable.(ντόÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(£ν™Ό
+‚
+java:S1319	"gThe type of "docList" should be an interface such as "List" rather than the implementation "ArrayList".(ΆΖΪ«ϋÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

@@ -1,0 +1,9 @@
+
+F
+java:S3010!"+Remove this assignment of "docNumSelected".(½õ¦–ÿÿÿÿÿ
+F
+java:S3010N"+Remove this assignment of "docNumSelected".(¬Š÷¶şÿÿÿÿ
+f
+java:S1858C"I"getAvailability" returns a string, there's no need to call "toString()".(úëæ8ëøå‹Ù0
+0
+java:S1220""Move this file to a named package.
